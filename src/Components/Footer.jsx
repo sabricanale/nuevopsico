@@ -17,7 +17,7 @@ const Footer = () =>{
                             </li>
                             <li className="nav-item">
                                 <div className="d-flex justify-content-center">
-                                    <a href="https://www.facebook.com/psicoteayudo"><img src={"./Images/Facebook.svg"} alt={"Facebook psicóloga"} width={25} /></a>
+                                    <a href="https://www.facebook.com/psicoteayudo"><img src={"./Images/facebook.svg"} alt={"Facebook psicóloga"} width={25} /></a>
                                     <a href="https://www.facebook.com/psicoteayudo" id="datos"><p>Psico Te Ayudo</p></a>
                                 </div>
                             </li>
